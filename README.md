@@ -18,9 +18,8 @@ A minimal and responsive template website built with REACT. Perfect as a startin
 ## 📁 Usage
 
 1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/template-website.git
-  
-
+```bash
+git clone https://github.com/Sunny-esc/Tempalte_website.git
+```
 https://github.com/user-attachments/assets/4e358350-60d7-4563-84c3-a85df5c1c8d6
 
